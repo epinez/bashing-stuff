@@ -1,2 +1,2 @@
 # bashing-stuff
-bash scripts
+bash scripts to do various things
